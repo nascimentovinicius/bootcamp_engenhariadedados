@@ -1,0 +1,1 @@
+{"date": "2021-08-24", "opening": 1002.43758, "closing": 944.0054, "lowest": 920, "highest": 1015.06, "volume": 2105300.80168405, "quantity": 2205.24099996, "amount": 2888, "avg_price": 954.68060031}

@@ -1,0 +1,3 @@
+{"date": "2020-09-01", "opening": 63939, "closing": 64500.00001, "lowest": 63900.01, "highest": 65490, "volume": 7746267.99184627, "quantity": 119.56511839, "amount": 4156, "avg_price": 64787.02230343}
+{"date": "2020-09-01", "opening": 2391.99989999, "closing": 2547.99983, "lowest": 2352.00151999, "highest": 2615, "volume": 7179023.58291346, "quantity": 2843.71902153, "amount": 4710, "avg_price": 2524.51931029}
+{"date": "2020-09-01", "opening": 337.85986, "closing": 339.5, "lowest": 334.19224, "highest": 350, "volume": 984315.89653601, "quantity": 2865.58839688, "amount": 1407, "avg_price": 343.49521292}
