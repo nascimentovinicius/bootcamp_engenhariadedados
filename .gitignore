@@ -40,3 +40,6 @@ share/python-wheels/
 pyvenv.cfg
 *.egg
 MANIFEST
+
+#custom
+_db
